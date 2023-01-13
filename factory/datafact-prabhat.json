@@ -1,0 +1,9 @@
+{
+	"name": "datafact-prabhat",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c7fb7ff-7735-4460-9b8f-cbda72032d4d",
+		"tenantId": "86538ccc-a8cb-4882-ab5b-0558db654fea"
+	}
+}
